@@ -3,6 +3,9 @@
 <xbel version="1.0">
 <!--- highestId :18: for Floccus bookmark sync browser extension -->
 
+<bookmark href="https://github.com/rubbit233" id="18">
+  <title>GitHub</title>
+</bookmark>
 <folder id="1">
   <title>签到</title>
   <bookmark href="https://laowang.vip/plugin.php?id=k_misign:sign&amp;operation=qiandao&amp;formhash=8e4dc3cb&amp;format=empty" id="11">
@@ -50,8 +53,5 @@
 </bookmark>
 <bookmark href="https://cloud.tencent.com/developer/article/1972143" id="10">
   <title>Python 懂车帝综合口碑数据-腾讯云开发者社区-腾讯云</title>
-</bookmark>
-<bookmark href="https://github.com/rubbit233" id="18">
-  <title>GitHub</title>
 </bookmark>
 </xbel>
