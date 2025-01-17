@@ -3,9 +3,6 @@
 <xbel version="1.0">
 <!--- highestId :18: for Floccus bookmark sync browser extension -->
 
-<bookmark href="https://github.com/rubbit233" id="18">
-  <title>GitHub</title>
-</bookmark>
 <folder id="1">
   <title>签到</title>
   <bookmark href="https://laowang.vip/plugin.php?id=k_misign:sign&amp;operation=qiandao&amp;formhash=8e4dc3cb&amp;format=empty" id="11">
