@@ -1,0 +1,30 @@
+name: Sync Gitee Bookmarks
+
+on:
+  schedule:
+    - cron: "0 2 * * *"  # 每天凌晨 2 点（UTC 时间）自动同步
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  update-bookmark:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🚀 检查 GitHub 仓库
+        uses: actions/checkout@v3
+
+      - name: 🔄 下载 Gitee 书签文件
+        run: |
+          curl -L -o Edge-bookmarks.html "https://gitee.com/sola929/bookmark/raw/master/Edge-bookmarks.html"
+
+      - name: 🔍 检查是否有更改
+        run: |
+          git diff --quiet && git diff --staged --quiet || echo "Changes detected"
+
+      - name: ✅ 提交并推送到 GitHub
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add Edge-bookmarks.html
+          git commit -m "🔄 自动同步 Gitee 书签文件 $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          git push
