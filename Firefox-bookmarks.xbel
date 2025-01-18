@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :95: for Floccus bookmark sync browser extension -->
+<!--- highestId :96: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -69,8 +69,8 @@
     </folder>
     <folder id="52">
       <title>SM</title>
-      <bookmark href="https://fetlife.com/explore" id="95">
-        <title>Kinky &amp; Popular | FetLife</title>
+      <bookmark href="https://bondage.com/" id="96">
+        <title>Bondage.com</title>
       </bookmark>
     </folder>
     <folder id="53">
@@ -170,6 +170,9 @@
       </bookmark>
       <bookmark href="https://www.lesbian8.com/" id="94">
         <title>女同性恋 8 - 女同性恋性管、女同性恋色情视频和 XXX 图片 --- Lesbian 8 - Lesbo Sex Tube, Lesbians Porn Videos &amp; XXX Pics</title>
+      </bookmark>
+      <bookmark href="https://fetlife.com/explore" id="95">
+        <title>Kinky &amp; Popular | FetLife</title>
       </bookmark>
     </folder>
     <bookmark href="https://theporndude.com/zh" id="55">
