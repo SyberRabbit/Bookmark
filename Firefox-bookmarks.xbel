@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :22: for Floccus bookmark sync browser extension -->
+<!--- highestId :43: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -26,14 +26,77 @@
 </folder>
 <folder id="19">
   <title>杂</title>
+  <folder id="26">
+    <title>VPS</title>
+    <bookmark href="https://justhost.asia/" id="35">
+      <title>客户区域 | justhost.asia</title>
+    </bookmark>
+  </folder>
+  <folder id="27">
+    <title>机场</title>
+    <bookmark href="https://eggtart.cloud/zh/#/home" id="36">
+      <title>旅程启点 | 蛋挞云</title>
+    </bookmark>
+    <bookmark href="https://sakuracat.college/dashboard" id="37">
+      <title>SakuraCat</title>
+    </bookmark>
+    <bookmark href="https://dokidokiweb.com/cn/index.html" id="38">
+      <title>dokidokiWeb - 实用小工具导航</title>
+    </bookmark>
+    <bookmark href="https://xn--4gq62f52gdss.ink/#/dashboard" id="39">
+      <title>一元机场</title>
+    </bookmark>
+  </folder>
+  <folder id="28">
+    <title>电影</title>
+    <bookmark href="https://www.nbyy.cc/" id="40">
+      <title>泥巴影院 - 海外华人在线影院</title>
+    </bookmark>
+  </folder>
+  <folder id="29">
+    <title>电报</title>
+    <bookmark href="https://tdirectory.me/" id="41">
+      <title>Telegram 目录 - 搜索 Telegram 频道、群组和机器人 --- Telegram Directory - Search Telegram Channels, Groups &amp; Bots</title>
+    </bookmark>
+    <bookmark href="https://tlgrm.eu/channels" id="42">
+      <title>Telegram Channels List: Discover interesting channels for your Telegram</title>
+    </bookmark>
+    <bookmark href="https://web.telegram.org/" id="43">
+      <title>Telegram Web</title>
+    </bookmark>
+  </folder>
   <folder id="20">
     <title>动漫</title>
     <bookmark href="https://anime1.me/" id="21">
       <title>Anime1.me 动画线上看– 上百部动漫免费线上看！ --- Anime1.me 動畫線上看 – 上百部動漫免費線上看！</title>
     </bookmark>
+    <bookmark href="https://web.brcdh.cyou/" id="23">
+      <title>蓝漫坊动漫官方地址发布页- AI智能地址解析引擎</title>
+    </bookmark>
     <bookmark href="https://brcomic.fun/" id="22">
       <title>蓝漫坊-亚洲顶级福利视频资源</title>
     </bookmark>
+    <bookmark href="https://hanime.tv/" id="24">
+      <title>在线观看 720p、1080p 高清免费无尽视频流 - hanime.tv --- Watch Free Hentai Video Streams Online in 720p, 1080p HD - hanime.tv</title>
+    </bookmark>
+    <folder id="25">
+      <title>磁力</title>
+      <bookmark href="https://bangumi.moe/" id="30">
+        <title>首页 - 萌番组</title>
+      </bookmark>
+      <bookmark href="https://share.dmhy.org/topics/list/sort_id/2" id="31">
+        <title>动画- 动漫花园资源网- 动漫爱好者的自由交流平台 --- 動畫 - 動漫花園資源網 - 動漫愛好者的自由交流平台</title>
+      </bookmark>
+      <bookmark href="https://bgmlist.com/" id="32">
+        <title>每日放送 | 番组放送</title>
+      </bookmark>
+      <bookmark href="https://mikanani.me/" id="33">
+        <title>蜜柑计划 - Mikan Project</title>
+      </bookmark>
+      <bookmark href="https://www.miobt.com/" id="34">
+        <title>＊MioBT＊</title>
+      </bookmark>
+    </folder>
   </folder>
 </folder>
 <bookmark href="https://mail.google.com/mail/u/0/#inbox" id="2">
