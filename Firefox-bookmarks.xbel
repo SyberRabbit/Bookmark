@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :116: for Floccus bookmark sync browser extension -->
+<!--- highestId :119: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -234,6 +234,12 @@
       <bookmark href="https://ouxpa.com/" id="116">
         <title>偶像派 - 原版图包写真下载</title>
       </bookmark>
+      <bookmark href="https://www.sotwe.com/shunkun0919" id="117">
+        <title>昨天一次 @shunkun0919 - Twitter 个人资料 |索特韦 --- Yesterday once @shunkun0919 - Twitter Profile | Sotwe</title>
+      </bookmark>
+      <bookmark href="https://xslist.org/zh" id="118">
+        <title>Xslist.org - 健康的宅男偶像专题网站</title>
+      </bookmark>
     </folder>
     <bookmark href="https://theporndude.com/zh" id="55">
       <title>瑟瑟导航</title>
@@ -327,6 +333,9 @@
 <bookmark href="https://dash.cloudflare.com/31cb866f606788c1494ca42f13f6b9d6/home/domains" id="4">
   <title>Cloudflare</title>
 </bookmark>
+<bookmark href="https://chatgpt.com/?temporary-chat=true" id="119">
+  <title>ChatGPT</title>
+</bookmark>
 <bookmark href="https://duckduckgo.com/" id="5">
   <title>DuckDuckGo</title>
 </bookmark>
@@ -335,9 +344,6 @@
 </bookmark>
 <bookmark href="https://www.youtube.com/" id="7">
   <title>YouTube</title>
-</bookmark>
-<bookmark href="https://chatgpt.com/?temporary-chat=true" id="8">
-  <title>ChatGPT</title>
 </bookmark>
 <bookmark href="https://wiki.metacubex.one/api/" id="9">
   <title>APIs - 虚空终端 Docs</title>
