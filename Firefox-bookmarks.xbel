@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :18: for Floccus bookmark sync browser extension -->
+<!--- highestId :22: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -23,6 +23,18 @@
   <bookmark href="https://linux.do/" id="16">
     <title>LINUX DO - 新的理想型社区</title>
   </bookmark>
+</folder>
+<folder id="19">
+  <title>杂</title>
+  <folder id="20">
+    <title>动漫</title>
+    <bookmark href="https://anime1.me/" id="21">
+      <title>Anime1.me 动画线上看– 上百部动漫免费线上看！ --- Anime1.me 動畫線上看 – 上百部動漫免費線上看！</title>
+    </bookmark>
+    <bookmark href="https://brcomic.fun/" id="22">
+      <title>蓝漫坊-亚洲顶级福利视频资源</title>
+    </bookmark>
+  </folder>
 </folder>
 <bookmark href="https://mail.google.com/mail/u/0/#inbox" id="2">
   <title>Gmail</title>
