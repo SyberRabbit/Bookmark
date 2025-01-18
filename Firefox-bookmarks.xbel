@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :43: for Floccus bookmark sync browser extension -->
+<!--- highestId :85: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -26,10 +26,124 @@
 </folder>
 <folder id="19">
   <title>杂</title>
+  <folder id="44">
+    <title>工具</title>
+    <bookmark href="https://www.vps234.com/ipchecker/" id="48">
+      <title>IPChecker检查IP是否被封的利器 - VPS234主机测评</title>
+    </bookmark>
+    <bookmark href="https://stock.hostmonit.com/CloudFlareYes" id="49">
+      <title>CF优选</title>
+    </bookmark>
+    <bookmark href="http://ip.flares.cloud/" id="50">
+      <title>Cloudflare IP 批量测试工具 --- Cloudflare IP Batch Test Tool</title>
+    </bookmark>
+  </folder>
   <folder id="26">
     <title>VPS</title>
     <bookmark href="https://justhost.asia/" id="35">
       <title>客户区域 | justhost.asia</title>
+    </bookmark>
+  </folder>
+  <folder id="45">
+    <title>瑟瑟</title>
+    <folder id="51">
+      <title>女女</title>
+    </folder>
+    <folder id="52">
+      <title>SM</title>
+    </folder>
+    <folder id="53">
+      <title>二次元</title>
+      <bookmark href="https://www.hentai-foundry.com/?enterAgree=1&amp;size=1250" id="58">
+        <title>主页 - 无尽铸造厂 --- Home - Hentai Foundry</title>
+      </bookmark>
+      <bookmark href="https://e-hentai.org/" id="59">
+        <title>E-Hentai Galleries - 免费的无尽同人志、漫画和图片库系统 --- E-Hentai Galleries - The Free Hentai Doujinshi, Manga and Image Gallery System</title>
+      </bookmark>
+      <bookmark href="https://xbooru.com/" id="60">
+        <title>克斯博鲁 --- Xbooru</title>
+      </bookmark>
+      <bookmark href="https://rule34.xxx/" id="61">
+        <title>Rule34 - 如果存在，就会有色情内容。 --- Rule34 - If it exists there is porn of it.</title>
+      </bookmark>
+      <bookmark href="https://www.fakku.net/" id="62">
+        <title>无尽漫画、同人和游戏 - FAKKU --- Hentai Manga, Doujin, and Games - FAKKU</title>
+      </bookmark>
+      <bookmark href="https://danbooru.donmai.us/" id="63">
+        <title>Danbooru：动漫图像板 --- Danbooru: Anime Image Board</title>
+      </bookmark>
+      <bookmark href="https://gelbooru.com/" id="64">
+        <title>Gelbooru | Free Anime and Hentai Gallery</title>
+      </bookmark>
+      <bookmark href="https://rule34.xxx/index.php?page=post&amp;s=list&amp;tags=paheal" id="65">
+        <title>规则 34 / paheal --- Rule 34 / paheal</title>
+      </bookmark>
+      <bookmark href="https://rule34.paheal.net/" id="66">
+        <title>规则34 --- Rule 34</title>
+      </bookmark>
+      <bookmark href="https://e621.net/" id="67">
+        <title>e621 --- e621</title>
+      </bookmark>
+    </folder>
+    <folder id="54">
+      <title>三次元</title>
+      <bookmark href="https://cn.pornhub.com/" id="68">
+        <title>免费色情视频和色情电影 - 色情片、X级视频、色情视频网站 | Pornhub</title>
+      </bookmark>
+      <bookmark href="https://www.youporn.com/" id="69">
+        <title>免费色情视频 - 高清色情管和 XXX 性爱视频 |你色情 --- Free Porn Videos - HD Porno Tube &amp; XXX Sex Videos | YouPorn</title>
+      </bookmark>
+      <bookmark href="https://www.xvideos.com/" id="70">
+        <title>免費成人視頻 - XVIDEOS.COM</title>
+      </bookmark>
+      <bookmark href="https://www.redtube.com/" id="71">
+        <title>免费色情性爱视频 - Redtube - XXX 电影 - 色情视频之家 --- Free Porn Sex Videos - Redtube - XXX Movies - Home of Videos Porno</title>
+      </bookmark>
+      <bookmark href="https://www.pornmd.com/" id="72">
+        <title>色情搜索引擎 |色情MD --- A Porn Search Engine | PornMD</title>
+      </bookmark>
+      <bookmark href="https://www.naughtyamerica.com/porn" id="73">
+        <title>Naughty America - 观看高清、4K 和 VR 色情 --- Naughty America - Watch HD, 4K &amp; VR Porn</title>
+      </bookmark>
+      <bookmark href="https://www.brazzers.com/home" id="74">
+        <title>Brazzers.com |火辣性感独家色情影片 --- Brazzers.com | Hot and Sexy Exclusive Porn Videos</title>
+      </bookmark>
+      <bookmark href="https://zh.xhamster.com/" id="75">
+        <title>xHamster 的免费色情视频和性爱视频管</title>
+      </bookmark>
+      <bookmark href="https://www.forhertube.com/zh/" id="76">
+        <title>适合女性的免费色情视频 - 女性色情和色情 | For Her Tube</title>
+      </bookmark>
+      <bookmark href="https://www.xnxx.com/" id="77">
+        <title>免費成人視頻, 性愛視頻, XXX圖片, 性感女孩 - XNXX.COM</title>
+      </bookmark>
+      <bookmark href="https://www.tube8.com/" id="78">
+        <title>Tube8: Free Porn Videos &amp; XXX Sex Movies - HD Porno Tube</title>
+      </bookmark>
+      <bookmark href="https://www.empflix.com/" id="79">
+        <title>EMPFlix 上的免费色情视频和 XXX 色情、性爱视频、手机和高清！ --- Free Porn Videos &amp; XXX Porno, Sex Videos, Mobile &amp; HD on EMPFlix!</title>
+      </bookmark>
+      <bookmark href="https://www.pornoxo.com/" id="80">
+        <title>PornoXO.com 上的免费色情视频和图片 --- Free Porno Videos and Pics at PornoXO.com</title>
+      </bookmark>
+      <bookmark href="https://www.thumbzilla.com/" id="81">
+        <title>免费在线性爱电影和色情影片 - Thumbzilla --- Free Sex Movies &amp; Porn Videos Online - Thumbzilla</title>
+      </bookmark>
+      <bookmark href="https://xchina.co/" id="82">
+        <title>小黄书 xChina</title>
+      </bookmark>
+      <bookmark href="https://www.photos18.com/" id="83">
+        <title>色情图片网- 成人情色图片 --- 色情圖片網 - 成人情色圖片</title>
+      </bookmark>
+      <bookmark href="https://thepornbest.com/?2#new" id="84">
+        <title>The Porn Best - 这里只留最好的情色网站- 繁体版 --- The Porn Best - 這裡只留最好的情色網站 - 繁體版</title>
+      </bookmark>
+      <bookmark href="https://www.pornhd.com/home" id="85">
+        <title>色情高清 - 观看免费高清色情视频 --- Porn HD - Watch free HD Porn Videos</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://theporndude.com/zh" id="55">
+      <title>瑟瑟导航</title>
     </bookmark>
   </folder>
   <folder id="27">
@@ -51,6 +165,15 @@
     <title>电影</title>
     <bookmark href="https://www.nbyy.cc/" id="40">
       <title>泥巴影院 - 海外华人在线影院</title>
+    </bookmark>
+  </folder>
+  <folder id="46">
+    <title>雪</title>
+    <bookmark href="https://theync.com/" id="56">
+      <title>theYNC.com：每日媒体、幽默、令人震惊、新闻视频 --- theYNC.com: Daily Media, Humor, Shocking, News Videos</title>
+    </bookmark>
+    <bookmark href="https://www.itemfix.com/" id="57">
+      <title>ItemFix - Social Video Factory</title>
     </bookmark>
   </folder>
   <folder id="29">
@@ -98,6 +221,9 @@
       </bookmark>
     </folder>
   </folder>
+  <bookmark href="https://account.godaddy.com/products" id="47">
+    <title>域名</title>
+  </bookmark>
 </folder>
 <bookmark href="https://mail.google.com/mail/u/0/#inbox" id="2">
   <title>Gmail</title>
