@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :111: for Floccus bookmark sync browser extension -->
+<!--- highestId :116: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -126,6 +126,12 @@
       <bookmark href="https://webtor.io/#/" id="111">
         <title>下载并播放种子 | Webtor.io --- Download and play torrents | Webtor.io</title>
       </bookmark>
+      <bookmark href="https://u001.25img.com/" id="112">
+        <title>U3C3</title>
+      </bookmark>
+      <bookmark href="https://share.dmhy.org/" id="113">
+        <title>首页- 动漫花园资源网- 动漫爱好者的自由交流平台 --- 首頁 - 動漫花園資源網 - 動漫愛好者的自由交流平台</title>
+      </bookmark>
     </folder>
     <folder id="54">
       <title>三次元</title>
@@ -218,6 +224,15 @@
       </bookmark>
       <bookmark href="https://avmoo.online/cn" id="108">
         <title>AVMOO - 你的线上日本成人影片情报站。管理你的影片并分享你的想法。</title>
+      </bookmark>
+      <bookmark href="https://loopurl.com/sjhs" id="114">
+        <title>司机会所</title>
+      </bookmark>
+      <bookmark href="https://hjy5.top/" id="115">
+        <title>海角社区</title>
+      </bookmark>
+      <bookmark href="https://ouxpa.com/" id="116">
+        <title>偶像派 - 原版图包写真下载</title>
       </bookmark>
     </folder>
     <bookmark href="https://theporndude.com/zh" id="55">
