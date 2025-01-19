@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :119: for Floccus bookmark sync browser extension -->
+<!--- highestId :121: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -323,6 +323,9 @@
   <bookmark href="https://account.godaddy.com/products" id="47">
     <title>域名</title>
   </bookmark>
+  <bookmark href="https://funnymapi.github.io/Bookmark/" id="120">
+    <title>我的在线书签</title>
+  </bookmark>
 </folder>
 <bookmark href="https://mail.google.com/mail/u/0/#inbox" id="2">
   <title>Gmail</title>
@@ -333,7 +336,7 @@
 <bookmark href="https://dash.cloudflare.com/31cb866f606788c1494ca42f13f6b9d6/home/domains" id="4">
   <title>Cloudflare</title>
 </bookmark>
-<bookmark href="https://chatgpt.com/?temporary-chat=true" id="119">
+<bookmark href="https://chatgpt.com/?temporary-chat=true" id="121">
   <title>ChatGPT</title>
 </bookmark>
 <bookmark href="https://duckduckgo.com/" id="5">
