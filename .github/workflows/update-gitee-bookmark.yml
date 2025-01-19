@@ -1,4 +1,4 @@
-name: Sync Gitee Bookmarks
+name: 同步Gitee书签-workflows
 
 on:
   schedule:
