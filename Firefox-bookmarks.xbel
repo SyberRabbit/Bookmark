@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :122: for Floccus bookmark sync browser extension -->
+<!--- highestId :123: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
   <bookmark href="https://laowang.vip/plugin.php?id=k_misign:sign&amp;operation=qiandao&amp;formhash=8e4dc3cb&amp;format=empty" id="11">
+    <title>签到-老王论坛</title>
+  </bookmark>
+  <bookmark href="https://laowang.vip/plugin.php?id=k_misign:sign&amp;operation=qiandao&amp;formhash=3a65ef72&amp;format=empty" id="123">
     <title>签到-老王论坛</title>
   </bookmark>
   <bookmark href="https://south-plus.net/plugin.php?H_name-tasks.html" id="12">
