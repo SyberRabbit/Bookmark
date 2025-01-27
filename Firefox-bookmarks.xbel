@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :124: for Floccus bookmark sync browser extension -->
+<!--- highestId :125: for Floccus bookmark sync browser extension -->
 
+<bookmark href="https://chatgpt.com/" id="122">
+  <title>ChatGPT</title>
+</bookmark>
 <folder id="1">
   <title>签到</title>
   <bookmark href="https://laowang.vip/plugin.php?id=k_misign:sign" id="124">
@@ -342,7 +345,7 @@
 <bookmark href="https://dash.cloudflare.com/31cb866f606788c1494ca42f13f6b9d6/home/domains" id="4">
   <title>Cloudflare</title>
 </bookmark>
-<bookmark href="https://chatgpt.com/" id="122">
+<bookmark href="https://chatgpt.com/?temporary-chat=true" id="125">
   <title>ChatGPT</title>
 </bookmark>
 <bookmark href="https://duckduckgo.com/" id="5">
