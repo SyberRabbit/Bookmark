@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :125: for Floccus bookmark sync browser extension -->
+<!--- highestId :126: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -356,5 +356,8 @@
 </bookmark>
 <bookmark href="https://chatgpt.com/" id="122">
   <title>ChatGPT</title>
+</bookmark>
+<bookmark href="https://newzone.top/posts/2020-11-27-rime_input.html" id="126">
+  <title>小狼毫 3 分钟入门及进阶指南 | LearnData 开源笔记</title>
 </bookmark>
 </xbel>
