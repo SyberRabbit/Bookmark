@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :129: for Floccus bookmark sync browser extension -->
+<!--- highestId :130: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -11,9 +11,6 @@
   <bookmark href="https://south-plus.net/plugin.php?H_name-tasks.html" id="12">
     <title>签到-South Plus</title>
   </bookmark>
-  <bookmark href="https://sijishe.link/k_misign-sign.html" id="13">
-    <title>签到-司机社</title>
-  </bookmark>
   <bookmark href="https://www.nodeseek.com/board" id="14">
     <title>NodeSeek</title>
   </bookmark>
@@ -22,6 +19,9 @@
   </bookmark>
   <bookmark href="https://linux.do/" id="16">
     <title>LINUX DO - 新的理想型社区</title>
+  </bookmark>
+  <bookmark href="https://xsijishe.net/k_misign-sign.html" id="130">
+    <title>签到-司机社</title>
   </bookmark>
 </folder>
 <folder id="19">
