@@ -15,7 +15,7 @@ jobs:
 
       - name: 🔄 下载 Gitee 书签文件
         run: |
-          curl -L -o Edge-bookmarks.html "https://gitee.com/sola929/bookmark/raw/master/Edge-bookmarks.html"
+          curl -L -o Chrome-bookmarks.html "https://gitee.com/sola929/bookmark/raw/master/Chrome-bookmarks.html"
 
       - name: 🔍 检查是否有更改
         run: |
