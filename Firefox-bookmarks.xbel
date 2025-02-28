@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :131: for Floccus bookmark sync browser extension -->
+<!--- highestId :134: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -22,6 +22,15 @@
   </bookmark>
   <bookmark href="https://linux.do/" id="16">
     <title>LINUX DO - 新的理想型社区</title>
+  </bookmark>
+</folder>
+<folder id="132">
+  <title>临时</title>
+  <bookmark href="https://laowang.vip/forum.php?mod=viewthread&amp;tid=1697378" id="133">
+    <title>【新提醒】内射两个萝莉，喷血推荐（第四次补链）_老王论坛</title>
+  </bookmark>
+  <bookmark href="https://laowang.vip/forum.php?mod=viewthread&amp;tid=1711341" id="134">
+    <title>【新提醒】ouikk蟾蜍（目前已知最全合集）内射萝莉，喷血极品。_老王论坛</title>
   </bookmark>
 </folder>
 <folder id="19">
