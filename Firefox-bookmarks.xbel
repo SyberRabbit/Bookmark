@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :142: for Floccus bookmark sync browser extension -->
+<!--- highestId :143: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -357,9 +357,6 @@
 <bookmark href="https://mail.google.com/mail/u/0/#inbox" id="2">
   <title>Gmail</title>
 </bookmark>
-<bookmark href="https://github.com/funnymapi" id="17">
-  <title>GitHub</title>
-</bookmark>
 <bookmark href="https://dash.cloudflare.com/31cb866f606788c1494ca42f13f6b9d6/home/domains" id="4">
   <title>Cloudflare</title>
 </bookmark>
@@ -383,5 +380,8 @@
 </bookmark>
 <bookmark href="https://outstanding-value-42f.notion.site/Clash-Meta-25934f38fc1449f9b7e95c5ad194bff8" id="141">
   <title>Clash Meta 纯内核使用教程</title>
+</bookmark>
+<bookmark href="https://github.com/SyberRabbit" id="143">
+  <title>GitHub</title>
 </bookmark>
 </xbel>
