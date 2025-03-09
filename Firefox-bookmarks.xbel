@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :141: for Floccus bookmark sync browser extension -->
+<!--- highestId :142: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -350,7 +350,7 @@
   <bookmark href="https://account.godaddy.com/products" id="47">
     <title>域名</title>
   </bookmark>
-  <bookmark href="https://funnymapi.github.io/Bookmark/" id="120">
+  <bookmark href="https://syberrabbit.github.io/Bookmark/" id="142">
     <title>我的在线书签</title>
   </bookmark>
 </folder>
