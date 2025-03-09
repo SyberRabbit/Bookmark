@@ -357,6 +357,9 @@
 <bookmark href="https://mail.google.com/mail/u/0/#inbox" id="2">
   <title>Gmail</title>
 </bookmark>
+<bookmark href="https://github.com/SyberRabbit" id="143">
+  <title>GitHub</title>
+</bookmark>
 <bookmark href="https://dash.cloudflare.com/31cb866f606788c1494ca42f13f6b9d6/home/domains" id="4">
   <title>Cloudflare</title>
 </bookmark>
@@ -380,8 +383,5 @@
 </bookmark>
 <bookmark href="https://outstanding-value-42f.notion.site/Clash-Meta-25934f38fc1449f9b7e95c5ad194bff8" id="141">
   <title>Clash Meta 纯内核使用教程</title>
-</bookmark>
-<bookmark href="https://github.com/SyberRabbit" id="143">
-  <title>GitHub</title>
 </bookmark>
 </xbel>
