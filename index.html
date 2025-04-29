@@ -35,32 +35,58 @@
             border: 1px solid #ddd;
         }
     </style>
-    <script>
-        function switchBookmarks(type) {
-            var iframe = document.getElementById("bookmarkFrame");
-            if (type === 'chrome') {
-                iframe.src = "Chrome-bookmarks.html";  // 远程 Chrome 书签
-            } else if (type === 'firefox') {
-                iframe.src = "Firefox-bookmarks.html";  // 本地火狐书签
-            }
-        }
-
-        window.onload = function() {
-            switchBookmarks('chrome');  // 默认加载 Chrome 书签
-        };
-    </script>
 </head>
 <body>
     <h1>我的在线书签</h1>
 
     <!-- 按钮切换书签 -->
     <div class="button-container">
-        <button onclick="switchBookmarks('chrome')">🌐 Chrome 书签</button>
-        <button onclick="switchBookmarks('firefox')">🔥 火狐书签</button>
+        <button id="chromeButton">🌐 Chrome 书签</button>
+        <button id="firefoxButton">🔥 火狐书签</button>
     </div>
 
     <!-- 默认加载 Chrome 书签 -->
     <iframe id="bookmarkFrame" src="Chrome-bookmarks.html"></iframe>
 
+    <script>
+        function switchBookmarks(type) {
+            var iframe = document.getElementById("bookmarkFrame");
+            if (type === 'chrome') {
+                iframe.src = "Chrome-bookmarks.html";
+            } else if (type === 'firefox') {
+                iframe.src = "Firefox-bookmarks.html";
+            }
+        }
+
+        function setIframeLinksBlank() {
+            var iframe = document.getElementById('bookmarkFrame');
+            try {
+                var links = iframe.contentWindow.document.querySelectorAll('a');
+                links.forEach(function(link) {
+                    link.setAttribute('target', '_blank');
+                });
+            } catch (e) {
+                console.log("无法访问iframe内容，可能是跨域问题", e);
+            }
+        }
+
+        window.onload = function() {
+            var iframe = document.getElementById('bookmarkFrame');
+
+            // iframe加载完成后，设置所有链接 target="_blank"
+            iframe.addEventListener('load', function() {
+                setIframeLinksBlank();
+            });
+
+            // 按钮事件绑定
+            document.getElementById('chromeButton').addEventListener('click', function() {
+                switchBookmarks('chrome');
+            });
+
+            document.getElementById('firefoxButton').addEventListener('click', function() {
+                switchBookmarks('firefox');
+            });
+        };
+    </script>
 </body>
 </html>
