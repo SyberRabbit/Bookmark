@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :153: for Floccus bookmark sync browser extension -->
+<!--- highestId :154: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -362,5 +362,8 @@
 </bookmark>
 <bookmark href="https://linux.do/t/topic/532533" id="150">
   <title>GPT4o-LINUX DO</title>
+</bookmark>
+<bookmark href="https://chat.oaipro.com/chat?session=inbox" id="154">
+  <title>随便聊聊 · LobeChat</title>
 </bookmark>
 </xbel>
