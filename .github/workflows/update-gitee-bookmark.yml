@@ -15,7 +15,7 @@ jobs:
 
       - name: 🔄 下载 Gitee 书签文件
         run: |
-          curl -L -o Chrome-bookmarks.html "https://gitee.com/sola929/bookmark/raw/master/Chrome-bookmarks.html"
+          curl -L -o Normal-bookmarks.html "https://gitee.com/sola929/bookmark/raw/master/Normal-bookmarks.html"
 
       - name: 🔍 检查是否有更改
         run: |
@@ -28,6 +28,6 @@ jobs:
 
       - name: Push changes
         run: |
-          git add Chrome-bookmarks.html
+          git add Normal-bookmarks.html
           git commit -m "🔄 自动同步 Gitee 书签文件 $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
           git push origin main
