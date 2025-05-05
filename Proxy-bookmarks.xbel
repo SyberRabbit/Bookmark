@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :161: for Floccus bookmark sync browser extension -->
+<!--- highestId :162: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -37,6 +37,9 @@
   </bookmark>
   <bookmark href="https://www.qichiyu.com/232.html" id="145">
     <title>【全网最细】手搓yaml配置文件 | clash/mihomo系列通用、保姆级教程、让你彻底搞懂yaml文件 - 七尺宇</title>
+  </bookmark>
+  <bookmark href="https://chat.aitoolscn.com/c/6818514f-bcfc-800f-b0ca-caa95ea964fe" id="162">
+    <title>Matrix vs Rocket.Chat 部署</title>
   </bookmark>
 </folder>
 <folder id="19">
