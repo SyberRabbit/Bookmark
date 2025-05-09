@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :165: for Floccus bookmark sync browser extension -->
+<!--- highestId :167: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -344,6 +344,9 @@
   <bookmark href="https://metacubex.github.io/metacubexd/#/setup" id="153">
     <title>MetaCubeXD</title>
   </bookmark>
+  <bookmark href="https://forum.uipath.com/" id="166">
+    <title>UiPath Community Forum</title>
+  </bookmark>
   <bookmark href="https://account.godaddy.com/products" id="47">
     <title>域名</title>
   </bookmark>
@@ -365,5 +368,8 @@
 </bookmark>
 <bookmark href="https://www.youtube.com/" id="7">
   <title>YouTube</title>
+</bookmark>
+<bookmark href="https://itunes-64-bits.cn.uptodown.com/windows/versions" id="167">
+  <title>iTunes (64-bit) 的旧版本 (Windows) | Uptodown</title>
 </bookmark>
 </xbel>
