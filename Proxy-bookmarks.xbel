@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :167: for Floccus bookmark sync browser extension -->
+<!--- highestId :168: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -280,6 +280,9 @@
     <bookmark href="https://xn--4gq62f52gdss.ink/#/dashboard" id="39">
       <title>一元机场</title>
     </bookmark>
+    <bookmark href="https://shop.7li7li.com/" id="168">
+      <title>7li7li杂货铺</title>
+    </bookmark>
   </folder>
   <folder id="28">
     <title>电影</title>
@@ -368,8 +371,5 @@
 </bookmark>
 <bookmark href="https://www.youtube.com/" id="7">
   <title>YouTube</title>
-</bookmark>
-<bookmark href="https://itunes-64-bits.cn.uptodown.com/windows/versions" id="167">
-  <title>iTunes (64-bit) 的旧版本 (Windows) | Uptodown</title>
 </bookmark>
 </xbel>
