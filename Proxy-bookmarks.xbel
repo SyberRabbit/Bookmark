@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :170: for Floccus bookmark sync browser extension -->
+<!--- highestId :171: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
+  <bookmark href="https://laowang.vip/plugin.php?id=k_misign:sign&amp;operation=qiandao&amp;formhash=36e246cf&amp;format=empty" id="170">
+    <title>签到-老王论坛</title>
+  </bookmark>
   <bookmark href="https://south-plus.net/plugin.php?H_name-tasks.html" id="12">
     <title>签到-South Plus</title>
   </bookmark>
@@ -23,9 +26,6 @@
   <bookmark href="https://chat.aitoolscn.com/list/#/home" id="161">
     <title>快速开始</title>
   </bookmark>
-  <bookmark href="https://laowang.vip/plugin.php?id=k_misign:sign&amp;operation=qiandao&amp;formhash=36e246cf&amp;format=empty" id="170">
-    <title>签到-老王论坛</title>
-  </bookmark>
 </folder>
 <folder id="132">
   <title>临时</title>
@@ -37,6 +37,9 @@
   </bookmark>
   <bookmark href="https://chat.oaipro.com/chat?session=inbox" id="154">
     <title>随便聊聊 · LobeChat</title>
+  </bookmark>
+  <bookmark href="https://sharedchat.fun/" id="171">
+    <title>RawChat公益站点</title>
   </bookmark>
 </folder>
 <folder id="19">
