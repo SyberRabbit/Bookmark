@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :171: for Floccus bookmark sync browser extension -->
+<!--- highestId :172: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -61,6 +61,9 @@
     <bookmark href="https://fauxid.com/" id="165">
       <title>假名生成器 | FauxID.com --- Fake Name Generator | FauxID.com</title>
     </bookmark>
+    <bookmark href="https://www.usaddrgen.com/" id="172">
+      <title>美国地址生成器 - 随机生成美国地址和个人身份信息</title>
+    </bookmark>
   </folder>
   <folder id="26">
     <title>VPS</title>
@@ -69,7 +72,7 @@
     </bookmark>
   </folder>
   <folder id="45">
-    <title>瑟瑟</title>
+    <title>电脑配件</title>
     <folder id="54">
       <title>三次元</title>
       <bookmark href="https://cn.pornhub.com/" id="68">
