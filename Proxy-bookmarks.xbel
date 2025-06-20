@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :174: for Floccus bookmark sync browser extension -->
+<!--- highestId :175: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -63,6 +63,9 @@
     </bookmark>
     <bookmark href="https://www.usaddrgen.com/" id="172">
       <title>美国地址生成器 - 随机生成美国地址和个人身份信息</title>
+    </bookmark>
+    <bookmark href="https://test1.javaw.icu/" id="175">
+      <title>本项目已终止</title>
     </bookmark>
   </folder>
   <folder id="26">
