@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :178: for Floccus bookmark sync browser extension -->
+<!--- highestId :181: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -323,6 +323,12 @@
       <title>Telegram Web</title>
     </bookmark>
   </folder>
+  <folder id="180">
+    <title>高中大学邮箱</title>
+    <bookmark href="https://mail.dearmer.edu.kg/SOGo/so/syber@sch.pics/Mail/view#!/Mail/0/INBOX" id="181">
+      <title>收件箱 | 邮件 | SOGo Groupware</title>
+    </bookmark>
+  </folder>
   <folder id="20">
     <title>动漫</title>
     <bookmark href="https://anime1.me/" id="21">
@@ -386,5 +392,8 @@
 </bookmark>
 <bookmark href="https://gemini.google.com/app" id="173">
   <title>Google Gemini</title>
+</bookmark>
+<bookmark href="https://chatgpt.com/c/6886f150-36c0-8329-9d0d-8c4f1c22ecad" id="179">
+  <title>分析Excel与Xmind文件</title>
 </bookmark>
 </xbel>
