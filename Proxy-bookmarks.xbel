@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :181: for Floccus bookmark sync browser extension -->
+<!--- highestId :183: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -49,6 +49,9 @@
   <title>杂</title>
   <folder id="44">
     <title>工具</title>
+    <bookmark href="https://mjj.today/syber" id="182">
+      <title>图床</title>
+    </bookmark>
     <bookmark href="https://www.vps234.com/ipchecker/" id="48">
       <title>IPChecker检查IP是否被封的利器 - VPS234主机测评</title>
     </bookmark>
@@ -371,9 +374,6 @@
   <bookmark href="https://account.godaddy.com/products" id="47">
     <title>域名</title>
   </bookmark>
-  <bookmark href="https://syberrabbit.github.io/Bookmark/" id="142">
-    <title>我的在线书签</title>
-  </bookmark>
 </folder>
 <bookmark href="https://github.com/SyberRabbit" id="143">
   <title>GitHub</title>
@@ -392,6 +392,9 @@
 </bookmark>
 <bookmark href="https://gemini.google.com/app" id="173">
   <title>Google Gemini</title>
+</bookmark>
+<bookmark href="https://mail.google.com/mail/u/1/#inbox" id="183">
+  <title>谷歌邮箱</title>
 </bookmark>
 <bookmark href="https://chatgpt.com/c/6886f150-36c0-8329-9d0d-8c4f1c22ecad" id="179">
   <title>分析Excel与Xmind文件</title>
