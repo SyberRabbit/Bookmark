@@ -5,6 +5,9 @@
 
 <folder id="1">
   <title>签到</title>
+  <bookmark href="https://laowang.vip/plugin.php?id=k_misign:sign&amp;operation=qiandao&amp;formhash=1b460f99&amp;format=empty" id="185">
+    <title>签到-老王论坛</title>
+  </bookmark>
   <bookmark href="https://south-plus.net/plugin.php?H_name-tasks.html" id="12">
     <title>签到-South Plus</title>
   </bookmark>
@@ -25,9 +28,6 @@
   </bookmark>
   <bookmark href="https://cdn.colin1112api.dpdns.org/personal" id="178">
     <title>colin1112&apos;s api</title>
-  </bookmark>
-  <bookmark href="https://laowang.vip/plugin.php?id=k_misign:sign&amp;operation=qiandao&amp;formhash=1b460f99&amp;format=empty" id="185">
-    <title>签到-老王论坛</title>
   </bookmark>
 </folder>
 <folder id="132">
