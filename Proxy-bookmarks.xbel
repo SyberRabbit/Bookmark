@@ -26,9 +26,6 @@
   <bookmark href="https://chat.aitoolscn.com/list/#/home" id="161">
     <title>快速开始</title>
   </bookmark>
-  <bookmark href="https://cdn.colin1112api.dpdns.org/personal" id="178">
-    <title>colin1112&apos;s api</title>
-  </bookmark>
 </folder>
 <folder id="132">
   <title>临时</title>
@@ -370,6 +367,9 @@
   </bookmark>
   <bookmark href="https://forum.uipath.com/" id="166">
     <title>UiPath Community Forum</title>
+  </bookmark>
+  <bookmark href="https://cdn.colin1112api.dpdns.org/personal" id="178">
+    <title>colin1112&apos;s api</title>
   </bookmark>
   <bookmark href="https://account.godaddy.com/products" id="47">
     <title>域名</title>
