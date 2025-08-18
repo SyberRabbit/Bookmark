@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :186: for Floccus bookmark sync browser extension -->
+<!--- highestId :189: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -60,6 +60,9 @@
     </bookmark>
     <bookmark href="https://student-id.pages.dev/" id="164">
       <title>学生证生成器 (仅供内部测试使用)</title>
+    </bookmark>
+    <bookmark href="https://student.frp.gs/" id="187">
+      <title>国际学生证生成器 (正反面)</title>
     </bookmark>
     <bookmark href="https://fauxid.com/" id="165">
       <title>假名生成器 | FauxID.com --- Fake Name Generator | FauxID.com</title>
@@ -295,6 +298,9 @@
     <bookmark href="https://shop.7li7li.com/" id="168">
       <title>7li7li杂货铺</title>
     </bookmark>
+    <bookmark href="https://web4.52pokemon.cc/dashboard" id="188">
+      <title>宝可梦加速器</title>
+    </bookmark>
   </folder>
   <folder id="28">
     <title>电影</title>
@@ -395,5 +401,8 @@
 </bookmark>
 <bookmark href="https://mail.google.com/mail/u/1/#inbox" id="183">
   <title>谷歌邮箱</title>
+</bookmark>
+<bookmark href="https://nuclearsecrecy.com/nukemap/" id="189">
+  <title>亚历克斯·韦勒斯坦的《核弹地图》 --- NUKEMAP by Alex Wellerstein</title>
 </bookmark>
 </xbel>
