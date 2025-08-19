@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :189: for Floccus bookmark sync browser extension -->
+<!--- highestId :190: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -402,7 +402,7 @@
 <bookmark href="https://mail.google.com/mail/u/1/#inbox" id="183">
   <title>谷歌邮箱</title>
 </bookmark>
-<bookmark href="https://nuclearsecrecy.com/nukemap/" id="189">
-  <title>亚历克斯·韦勒斯坦的《核弹地图》 --- NUKEMAP by Alex Wellerstein</title>
+<bookmark href="https://chatgpt.com/c/68a289ea-fdcc-832c-9d25-c3bbbe9427d2" id="190">
+  <title>拼接加签字符串</title>
 </bookmark>
 </xbel>
