@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :192: for Floccus bookmark sync browser extension -->
+<!--- highestId :193: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -300,6 +300,9 @@
     </bookmark>
     <bookmark href="https://web4.52pokemon.cc/dashboard" id="188">
       <title>宝可梦加速器</title>
+    </bookmark>
+    <bookmark href="https://uuuuu.vvvv.ee/#/dashboard" id="193">
+      <title>仪表盘 | W</title>
     </bookmark>
   </folder>
   <folder id="28">
