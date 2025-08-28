@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :194: for Floccus bookmark sync browser extension -->
+<!--- highestId :195: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -408,13 +408,13 @@
 <bookmark href="https://mail.google.com/mail/u/1/#inbox" id="183">
   <title>谷歌邮箱</title>
 </bookmark>
-<bookmark href="https://chatgpt.com/c/68a289ea-fdcc-832c-9d25-c3bbbe9427d2" id="190">
-  <title>拼接加签字符串</title>
-</bookmark>
 <bookmark href="https://ai.snapfit.space/zh" id="191">
   <title>Snapifit AI</title>
 </bookmark>
 <bookmark href="https://mail.proton.me/u/0/inbox" id="192">
   <title>Proton Mail</title>
+</bookmark>
+<bookmark href="https://chatgpt.com/c/68aff72a-1fcc-8332-90bc-d73ca82a18f2" id="195">
+  <title>拼接字符串示例</title>
 </bookmark>
 </xbel>
