@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :198: for Floccus bookmark sync browser extension -->
+<!--- highestId :199: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -416,5 +416,8 @@
 </bookmark>
 <bookmark href="https://www.5music.com.tw/ordqryfm.asp" id="198">
   <title>五大唱片 --- 五大唱片</title>
+</bookmark>
+<bookmark href="https://nodecrypt.elyar430.workers.dev/" id="199">
+  <title>NodeCrypt</title>
 </bookmark>
 </xbel>
