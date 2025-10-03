@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :200: for Floccus bookmark sync browser extension -->
+<!--- highestId :201: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -25,6 +25,9 @@
   </bookmark>
   <bookmark href="https://chat.aitoolscn.com/list/#/home" id="161">
     <title>快速开始</title>
+  </bookmark>
+  <bookmark href="https://www.ithome.com/zt/xijiayi" id="201">
+    <title>「喜加一」最新动态</title>
   </bookmark>
 </folder>
 <folder id="132">
