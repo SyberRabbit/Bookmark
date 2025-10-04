@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :201: for Floccus bookmark sync browser extension -->
+<!--- highestId :202: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -419,5 +419,8 @@
 </bookmark>
 <bookmark href="https://nodecrypt.elyar430.workers.dev/" id="199">
   <title>NodeCrypt</title>
+</bookmark>
+<bookmark href="https://www.iyf.tv/play/MBxLp76dbY1?id=l16zLEExlxL" id="202">
+  <title>许我耀眼-02-免费在线观看-爱壹帆</title>
 </bookmark>
 </xbel>
