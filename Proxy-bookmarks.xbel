@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :204: for Floccus bookmark sync browser extension -->
+<!--- highestId :205: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -75,6 +75,9 @@
     </bookmark>
     <bookmark href="https://test1.javaw.icu/" id="175">
       <title>本项目已终止</title>
+    </bookmark>
+    <bookmark href="https://sora.chatgpt.com/explore" id="205">
+      <title>Sora</title>
     </bookmark>
   </folder>
   <folder id="26">
