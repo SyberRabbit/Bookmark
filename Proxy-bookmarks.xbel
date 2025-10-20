@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :206: for Floccus bookmark sync browser extension -->
+<!--- highestId :207: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -425,5 +425,8 @@
 </bookmark>
 <bookmark href="https://nodecrypt.elyar430.workers.dev/" id="199">
   <title>NodeCrypt</title>
+</bookmark>
+<bookmark href="https://chatgpt.com/c/68f5a0fc-c1e0-8322-b517-09e502ad04e4" id="207">
+  <title>Vip自动续费页面命名</title>
 </bookmark>
 </xbel>
