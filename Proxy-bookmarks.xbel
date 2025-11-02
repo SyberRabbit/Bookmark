@@ -5,6 +5,9 @@
 
 <folder id="1">
   <title>签到</title>
+  <bookmark href="https://laowang.vip/plugin.php?id=k_misign:sign&amp;operation=qiandao&amp;formhash=b815a09c&amp;format=empty" id="209">
+    <title>验证页面</title>
+  </bookmark>
   <bookmark href="https://south-plus.net/plugin.php?H_name-tasks.html" id="12">
     <title>签到-South Plus</title>
   </bookmark>
@@ -28,9 +31,6 @@
   </bookmark>
   <bookmark href="https://www.ithome.com/zt/xijiayi" id="201">
     <title>「喜加一」最新动态</title>
-  </bookmark>
-  <bookmark href="https://laowang.vip/plugin.php?id=k_misign:sign&amp;operation=qiandao&amp;formhash=b815a09c&amp;format=empty" id="209">
-    <title>验证页面</title>
   </bookmark>
 </folder>
 <folder id="132">
