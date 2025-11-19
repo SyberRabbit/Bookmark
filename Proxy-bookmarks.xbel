@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :210: for Floccus bookmark sync browser extension -->
+<!--- highestId :212: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -431,5 +431,11 @@
 </bookmark>
 <bookmark href="https://nodecrypt.elyar430.workers.dev/" id="199">
   <title>NodeCrypt</title>
+</bookmark>
+<bookmark href="https://chatgpt.com/c/691d79c4-4cec-8008-b803-0929f4b2ae65" id="211">
+  <title>解析命令行参数</title>
+</bookmark>
+<bookmark href="https://chatgpt.com/c/691d29ab-7f90-8008-b862-cc92c8162adf" id="212">
+  <title>Fastbot 守护项目结构</title>
 </bookmark>
 </xbel>
