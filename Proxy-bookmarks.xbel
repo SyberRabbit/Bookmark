@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :212: for Floccus bookmark sync browser extension -->
+<!--- highestId :213: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -434,5 +434,8 @@
 </bookmark>
 <bookmark href="https://chatgpt.com/c/691d79c4-4cec-8008-b803-0929f4b2ae65" id="211">
   <title>解析命令行参数</title>
+</bookmark>
+<bookmark href="https://chatgpt.com/c/6922f742-51b8-8329-877a-65959eb7c691" id="213">
+  <title>PostgreSQL 数据库结构解释</title>
 </bookmark>
 </xbel>
