@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :217: for Floccus bookmark sync browser extension -->
+<!--- highestId :218: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -333,6 +333,9 @@
     </bookmark>
     <bookmark href="https://so.252035.xyz/" id="208">
       <title>PanSou 盘搜</title>
+    </bookmark>
+    <bookmark href="https://549.tv/" id="218">
+      <title>影视森林——观影第一站</title>
     </bookmark>
   </folder>
   <folder id="46">
