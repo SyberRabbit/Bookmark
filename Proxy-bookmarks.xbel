@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :219: for Floccus bookmark sync browser extension -->
+<!--- highestId :220: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>签到</title>
@@ -440,5 +440,8 @@
 </bookmark>
 <bookmark href="https://nodecrypt.elyar430.workers.dev/" id="199">
   <title>NodeCrypt</title>
+</bookmark>
+<bookmark href="https://linux.do/t/topic/1346506/2" id="220">
+  <title>大毛，2026年马钞13号开始预约，预计利润400+吧（自己去搜搜关键字，找找攻略）。 - 福利羊毛 - LINUX DO</title>
 </bookmark>
 </xbel>
